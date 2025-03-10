@@ -1,2 +1,3 @@
-tarun:69
+tarun:1
 admin:password123
+rahul:1
